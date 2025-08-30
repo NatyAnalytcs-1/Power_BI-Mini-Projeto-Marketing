@@ -86,6 +86,10 @@ Nesta seção, analisamos o desempenho das campanhas de marketing em diferentes 
 </div>
 
 
+## Assista à interatividade
+
+[![Assista no YouTube](https://img.youtube.com/vi/eOT5xFxVId4/0.jpg)](https://youtu.be/eOT5xFxVId4)
+
 # 📈 Conclusão: Impacto Estratégico para o Marketing
 A análise detalhada das campanhas de marketing por meio do Power BI permite que as empresas tomem decisões mais informadas e estratégicas. Ao compreender o perfil dos clientes, seus comportamentos de compra, 
 a efetividade das campanhas e os padrões por país, o setor de marketing pode:
